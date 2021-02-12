@@ -1,3 +1,3 @@
 # typewriter
 
-[The typewriter](https://alexmaracinaru.github.io/typewriter/)
+https://alexmaracinaru.github.io/typewriter/
